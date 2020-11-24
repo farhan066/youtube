@@ -176,7 +176,7 @@ header{
 	border:1px solid #D1D1D1;
 	padding:5px;
 	margin:0;
-	
+	outline:none;
 }
 
 .search-icon{
